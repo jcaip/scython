@@ -1,7 +1,7 @@
-(load "/home/kingcai/Desktop/Scython/obj.scm")
-(load "/home/kingcai/Desktop/Scython/parser.scm")
-(load "/home/kingcai/Desktop/Scython/py-primitives.scm")
-(load "/home/kingcai/Desktop/Scython/py-meta.scm")
+(load "/home/jesse/workspace/Scython/obj.scm")
+(load "/home/jesse/workspace/Scython/parser.scm")
+(load "/home/jesse/workspace/Scython/py-primitives.scm")
+(load "/home/jesse/workspace/Scython/py-meta.scm")
 (initialize-python)
 
 ;;if you're using emacs, comment out the above code and make the following changes:
